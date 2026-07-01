@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6b0020/T/v1
+canonical_location: https://kanripo.org/bkk/KR6b0020/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太子墓魄經
+  identifiers:
+    krp: KR6b0020
+    cbeta: T03n0168
+    cbeta_old_id: T03n0168
+    authorityid: CA0003209
+    json_key: T0168
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0168.xml
+    old_id: T03n0168
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0020_000-T.yaml, hash: 'sha256:7c917e03f5139e78d493e408df081a9fb423a0f07c9f506b9d9f3a5100aa5ce7'}
+  - {seq: 1, filename: KR6b0020_001-T.yaml, hash: 'sha256:2996c1cecbfe24e4f835744a6fbf2383d651020d84beb03526fc2dfb141e0ed3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6b0020_000-T.markers.yaml, hash: 'sha256:76d127b432b72760cac7423c9c4b59192421cb610d748ad7b7cdeba7ccf55c49'}
+  - {seq: 1, role: markers, filename: assets/KR6b0020_001-T.markers.yaml, hash: 'sha256:69d2be0f0adf1a3c9a9d3909cf55bc59e8944dfd5986da61e88b92bd9ba85519'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0020_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1193
+  label: 佛說太子墓魄經開元錄云：沐魄或慕魄
+  type: juan
+  level: 1
+hash: sha256:9863ab43d65e58722d0b275164dcbfc6ae0a78a80db923f9f14c4e2093354ca0
