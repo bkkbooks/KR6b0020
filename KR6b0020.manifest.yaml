@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0020_000.yaml, hash: 'sha256:7c917e03f5139e78d493e408df081a9fb423a0f07c9f506b9d9f3a5100aa5ce7'}
-  - {seq: 1, filename: KR6b0020_001.yaml, hash: 'sha256:80ad0f9e1de32e7c0463737a6e8d8b428ed009a3a1540e8bccb244d737aa8d82'}
+  - {seq: 1, filename: KR6b0020_001.yaml, hash: 'sha256:2996c1cecbfe24e4f835744a6fbf2383d651020d84beb03526fc2dfb141e0ed3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6b0020_001.markers.yaml, hash: 'sha256:f8f32c8b86d0899e5c3b79c35eb1ad6427fce81f422b035272eea594534c7dab'}
+  - {seq: 0, role: markers, filename: assets/KR6b0020_000.markers.yaml, hash: 'sha256:c26e52b8ae4f59f52d0ad31f7158718abd88408889869c997983ea883de26758'}
+  - {seq: 1, role: markers, filename: assets/KR6b0020_001.markers.yaml, hash: 'sha256:5d010ab6833987343b6f22a4c3e6a8377618c64eee847784614cb1246310f4c2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說太子墓魄經開元錄云：沐魄或慕魄
   type: juan
   level: 1
-hash: sha256:d9ece9ae832b94a74e590ad72d453f0d21e20cb277c033758b32048a4233aea9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:204dcb77431fd9e0451a4dd6af3dba937d282408439fd52f86508908da3ff09b
