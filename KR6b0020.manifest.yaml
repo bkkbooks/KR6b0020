@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6b0020_000.yaml, hash: 'sha256:7c917e03f5139e78d493e408df081a9fb423a0f07c9f506b9d9f3a5100aa5ce7'}
   - {seq: 1, filename: KR6b0020_001.yaml, hash: 'sha256:da50f0d16cec5028055d7dbe2529c229a3e2f420a4d5c861ec2a0af20bc0ffa9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6b0020_000.markers.yaml, hash: 'sha256:c26e52b8ae4f59f52d0ad31f7158718abd88408889869c997983ea883de26758'}
+  - {seq: 0, role: markers, filename: assets/KR6b0020_000.markers.yaml, hash: 'sha256:8a29b297a7a9bed6e527b8943443415f8fad997d5bd54f0d7fc7ff9efda9b04b'}
   - {seq: 1, role: markers, filename: assets/KR6b0020_001.markers.yaml, hash: 'sha256:199467d017c9909be3a27f171181bb032855b6f1d7b8ac4c575b0360d18260fd'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說太子墓魄經開元錄云：沐魄或慕魄
   type: juan
   level: 1
-hash: sha256:a8558115233043f98c65a37d13bc9cffb1429cf72af41eba7fe2b09a3bd5449f
+hash: sha256:54f5bc5b9423910db9b09f9f0ce0dc25d5bc3ed301d395fc9be536408f4d78f1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
